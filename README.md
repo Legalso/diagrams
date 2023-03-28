@@ -2,7 +2,7 @@
 
 > I'm using draw.io to make them!
 
-<p1>github repository to save the diagrams i'm crating in my university classes</p1>
+<p1>github repository to save the diagrams i'm crating in my university software modeling classes</p1>
 
 
 <p align="center">
