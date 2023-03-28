@@ -6,7 +6,5 @@
 
 
 <p align="center">
-22
-  <https://media.giphy.com/media/a3ja4NXmUhA88/giphy.gif />
-23
+  <img src="https://media.giphy.com/media/a3ja4NXmUhA88/giphy.gif" alt="animated" />
 </p>
